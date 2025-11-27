@@ -1,5 +1,18 @@
 # vscode 설정 관련 파일
 .vscode/
 
+# Eclipse workspace / project settings
+.metadata/
+.classpath
+.project
+.settings
 
+# Build artifacts
+bin/
+target/
+out/
+*.class
 
+# OS-generated junk files
+.DS_store
+Thumbs.db
