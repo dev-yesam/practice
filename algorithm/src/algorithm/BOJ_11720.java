@@ -2,7 +2,7 @@ package algorithm;
 
 import java.util.Scanner;
 
-public class Main {
+public class BOJ_11720 {
 	public static void main(String[] args) {
 		// boj 11720
 		Scanner sc = new Scanner(System.in);
